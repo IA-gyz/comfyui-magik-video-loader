@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-magik-video-loader"
+version = "1.0.0"
+description = 'Magik Video Loader'
+authors = [{name = "IA-gyz"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/IA-gyz/comfyui-magik-video-loader"
+
+[tool.comfy]
+PublisherId = "IA-gyz"
+DisplayName = "Magik Video Loader"
